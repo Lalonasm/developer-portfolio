@@ -16,6 +16,7 @@ h1{
     width: 50%;
     padding-left: 5%;
     border-radius: 5px;
+    border: 2px 2px 2px 2px;
 }
 .half-width img{
     width: 80%;
@@ -30,18 +31,49 @@ h1{
     border-radius: 5px;
 }
 .top-banner{
-    background-image: url();
+    background-image: url(shape-1.png);
     background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: 100px;
 }
 .vission{
     background-color: rosybrown;
+    margin-right:
+    margin-left: 
 }
 .mission{
     background-color: powderblue;
+    margin-right: 
+    margin-left: 
 }
 .goals{
     background-color: tan;
 }
-center{
+.center{
     text-align: center;
+}
+.lower-column{
+    background-color:grey;
+    font: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+.three-part{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    margin-left: ;
+    margin-right: ;
+    border: ;
+    width: 80%%;
+    
+}
+.logo{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position:right;
+
+}
+footer {
+    text-align: center;
+    background-color:grey;
+    
 }
